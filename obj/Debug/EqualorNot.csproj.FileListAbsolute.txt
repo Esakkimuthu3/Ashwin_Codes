@@ -1,0 +1,7 @@
+D:\ics programs\EqualorNot\bin\Debug\EqualorNot.exe.config
+D:\ics programs\EqualorNot\bin\Debug\EqualorNot.exe
+D:\ics programs\EqualorNot\bin\Debug\EqualorNot.pdb
+D:\ics programs\EqualorNot\obj\Debug\EqualorNot.csproj.AssemblyReference.cache
+D:\ics programs\EqualorNot\obj\Debug\EqualorNot.csproj.CoreCompileInputs.cache
+D:\ics programs\EqualorNot\obj\Debug\EqualorNot.exe
+D:\ics programs\EqualorNot\obj\Debug\EqualorNot.pdb
