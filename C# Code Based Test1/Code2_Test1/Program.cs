@@ -11,7 +11,7 @@ namespace Code2_Test1
         static void Main(string[] args)
         {
             string a = "Python";
-            for(int j=0; j<=3;j++)
+            for(int j=1; j<=3;j++)
             {
                 Console.WriteLine("Enter the position");
                 int pos = Convert.ToInt32(Console.ReadLine());
