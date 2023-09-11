@@ -1,0 +1,7 @@
+D:\ics programs\EqualorNot\Code_Test1\bin\Debug\Code_Test1.exe.config
+D:\ics programs\EqualorNot\Code_Test1\bin\Debug\Code_Test1.exe
+D:\ics programs\EqualorNot\Code_Test1\bin\Debug\Code_Test1.pdb
+D:\ics programs\EqualorNot\Code_Test1\obj\Debug\Code_Test1.csproj.AssemblyReference.cache
+D:\ics programs\EqualorNot\Code_Test1\obj\Debug\Code_Test1.csproj.CoreCompileInputs.cache
+D:\ics programs\EqualorNot\Code_Test1\obj\Debug\Code_Test1.exe
+D:\ics programs\EqualorNot\Code_Test1\obj\Debug\Code_Test1.pdb

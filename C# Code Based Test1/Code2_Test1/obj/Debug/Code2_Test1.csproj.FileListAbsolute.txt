@@ -1,0 +1,6 @@
+D:\ics programs\EqualorNot\C# Code Based Test1\Code2_Test1\bin\Debug\Code2_Test1.exe.config
+D:\ics programs\EqualorNot\C# Code Based Test1\Code2_Test1\bin\Debug\Code2_Test1.exe
+D:\ics programs\EqualorNot\C# Code Based Test1\Code2_Test1\bin\Debug\Code2_Test1.pdb
+D:\ics programs\EqualorNot\C# Code Based Test1\Code2_Test1\obj\Debug\Code2_Test1.csproj.CoreCompileInputs.cache
+D:\ics programs\EqualorNot\C# Code Based Test1\Code2_Test1\obj\Debug\Code2_Test1.exe
+D:\ics programs\EqualorNot\C# Code Based Test1\Code2_Test1\obj\Debug\Code2_Test1.pdb
