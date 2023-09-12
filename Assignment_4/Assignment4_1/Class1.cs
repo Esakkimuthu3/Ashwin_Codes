@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment4_2
+namespace Assignment4_1
 {
     class Student
     {
+
         private string rollno;
         private string name;
         private string classStd;
@@ -19,7 +20,7 @@ namespace Assignment4_2
         {
             this.rollno = rollno;
             this.name = name;
-            this.class_ = classStd;
+            this.classStd = classStd;
             this.semester = semester;
 
         }
