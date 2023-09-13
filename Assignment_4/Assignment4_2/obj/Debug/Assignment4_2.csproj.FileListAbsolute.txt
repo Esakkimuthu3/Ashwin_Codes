@@ -1,0 +1,13 @@
+D:\ics programs\EqualorNot\Assignment_4\Assignment4_2\bin\Debug\Assignment4_2.exe.config
+D:\ics programs\EqualorNot\Assignment_4\Assignment4_2\bin\Debug\Assignment4_2.exe
+D:\ics programs\EqualorNot\Assignment_4\Assignment4_2\bin\Debug\Assignment4_2.pdb
+D:\ics programs\EqualorNot\Assignment_4\Assignment4_2\obj\Debug\Assignment4_2.csproj.CoreCompileInputs.cache
+D:\ics programs\EqualorNot\Assignment_4\Assignment4_2\obj\Debug\Assignment4_2.exe
+D:\ics programs\EqualorNot\Assignment_4\Assignment4_2\obj\Debug\Assignment4_2.pdb
+D:\ics programs\Assignment_4\Assignment4_2\bin\Debug\Assignment4_2.exe.config
+D:\ics programs\Assignment_4\Assignment4_2\bin\Debug\Assignment4_2.exe
+D:\ics programs\Assignment_4\Assignment4_2\bin\Debug\Assignment4_2.pdb
+D:\ics programs\Assignment_4\Assignment4_2\obj\Debug\Assignment4_2.csproj.AssemblyReference.cache
+D:\ics programs\Assignment_4\Assignment4_2\obj\Debug\Assignment4_2.csproj.CoreCompileInputs.cache
+D:\ics programs\Assignment_4\Assignment4_2\obj\Debug\Assignment4_2.exe
+D:\ics programs\Assignment_4\Assignment4_2\obj\Debug\Assignment4_2.pdb
