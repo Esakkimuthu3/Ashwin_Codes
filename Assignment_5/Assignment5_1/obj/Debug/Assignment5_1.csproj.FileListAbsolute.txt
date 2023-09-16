@@ -1,0 +1,7 @@
+D:\ics programs\EqualorNot\Assignment_5\Assignment5_1\bin\Debug\Assignment5_1.exe.config
+D:\ics programs\EqualorNot\Assignment_5\Assignment5_1\bin\Debug\Assignment5_1.exe
+D:\ics programs\EqualorNot\Assignment_5\Assignment5_1\bin\Debug\Assignment5_1.pdb
+D:\ics programs\EqualorNot\Assignment_5\Assignment5_1\obj\Debug\Assignment5_1.csproj.AssemblyReference.cache
+D:\ics programs\EqualorNot\Assignment_5\Assignment5_1\obj\Debug\Assignment5_1.csproj.CoreCompileInputs.cache
+D:\ics programs\EqualorNot\Assignment_5\Assignment5_1\obj\Debug\Assignment5_1.exe
+D:\ics programs\EqualorNot\Assignment_5\Assignment5_1\obj\Debug\Assignment5_1.pdb
