@@ -1,0 +1,7 @@
+D:\ics programs\EqualorNot\C# Code Based Test2\CodeTest2\bin\Debug\CodeTest2.exe.config
+D:\ics programs\EqualorNot\C# Code Based Test2\CodeTest2\bin\Debug\CodeTest2.exe
+D:\ics programs\EqualorNot\C# Code Based Test2\CodeTest2\bin\Debug\CodeTest2.pdb
+D:\ics programs\EqualorNot\C# Code Based Test2\CodeTest2\obj\Debug\CodeTest2.csproj.AssemblyReference.cache
+D:\ics programs\EqualorNot\C# Code Based Test2\CodeTest2\obj\Debug\CodeTest2.csproj.CoreCompileInputs.cache
+D:\ics programs\EqualorNot\C# Code Based Test2\CodeTest2\obj\Debug\CodeTest2.exe
+D:\ics programs\EqualorNot\C# Code Based Test2\CodeTest2\obj\Debug\CodeTest2.pdb
