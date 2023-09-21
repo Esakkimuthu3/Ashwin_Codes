@@ -1,0 +1,7 @@
+D:\ics programs\EqualorNot\C# Code Based Test2\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\ics programs\EqualorNot\C# Code Based Test2\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\ics programs\EqualorNot\C# Code Based Test2\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\ics programs\EqualorNot\C# Code Based Test2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\ics programs\EqualorNot\C# Code Based Test2\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\ics programs\EqualorNot\C# Code Based Test2\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\ics programs\EqualorNot\C# Code Based Test2\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
