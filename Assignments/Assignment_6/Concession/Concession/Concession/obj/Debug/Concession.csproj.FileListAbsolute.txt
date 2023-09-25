@@ -1,0 +1,6 @@
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_6\Concession\Concession\Concession\bin\Debug\Concession.dll
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_6\Concession\Concession\Concession\bin\Debug\Concession.pdb
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_6\Concession\Concession\Concession\obj\Debug\Concession.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_6\Concession\Concession\Concession\obj\Debug\Concession.csproj.CoreCompileInputs.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_6\Concession\Concession\Concession\obj\Debug\Concession.dll
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_6\Concession\Concession\Concession\obj\Debug\Concession.pdb
