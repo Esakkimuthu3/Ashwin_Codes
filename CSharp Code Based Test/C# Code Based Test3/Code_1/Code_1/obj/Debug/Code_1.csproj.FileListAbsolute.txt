@@ -1,0 +1,6 @@
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_6\Concession\Code_1\Code_1\bin\Debug\Code_1.exe.config
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_6\Concession\Code_1\Code_1\bin\Debug\Code_1.exe
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_6\Concession\Code_1\Code_1\bin\Debug\Code_1.pdb
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_6\Concession\Code_1\Code_1\obj\Debug\Code_1.csproj.CoreCompileInputs.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_6\Concession\Code_1\Code_1\obj\Debug\Code_1.exe
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_6\Concession\Code_1\Code_1\obj\Debug\Code_1.pdb
