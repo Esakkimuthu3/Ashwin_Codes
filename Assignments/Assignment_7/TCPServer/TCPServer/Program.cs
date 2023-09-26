@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Runtime.Remoting;
 using System.Runtime.Remoting.Channels;
 using System.Runtime.Remoting.Channels.Tcp;
+using System.Runtime.Remoting.Channels.Http;
 using System.Runtime.Remoting.Lifetime;
 
 namespace TCPServer
 {
 
-    public class Work : MarshalByRefObject
+    public class Service : MarshalByRefObject
     {
         public string SayHello(string s)
         {
@@ -36,9 +37,9 @@ namespace TCPServer
     {
         static void Main(string[] args)
         {
-            TcpChan tcpchannel = new TcpChan(8089);
+            TcpChannel tcpchannel = new TcpChannel(8089);
             ChannelServices.RegisterChannel(tcpchannel, false);
-            RemotingConfiguration.RegisterWellKnownServiceType(typeof(Work), "OurFirstRemoteService",
+            RemotingConfiguration.RegisterWellKnownServiceType(typeof(Service), "OurFirstRemoteService",
                 WellKnownObjectMode.Singleton);
             Console.WriteLine("Server Services started on tcp Port No: 8089...");
             Console.WriteLine("Press any Key to Stop the Server Services..");
