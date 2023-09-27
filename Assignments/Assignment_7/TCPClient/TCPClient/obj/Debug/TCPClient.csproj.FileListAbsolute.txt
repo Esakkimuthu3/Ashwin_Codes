@@ -1,0 +1,2 @@
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache

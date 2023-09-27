@@ -1,0 +1,2 @@
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.CoreCompileInputs.cache

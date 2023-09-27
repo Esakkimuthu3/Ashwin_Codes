@@ -1,0 +1,7 @@
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_8\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_8\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_8\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_8\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_8\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_8\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_8\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
