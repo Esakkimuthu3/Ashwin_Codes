@@ -8,8 +8,8 @@ namespace FactoryPattern
 {
     class Rectangle : Ishape
     {
-        public double length = 5;
-        public double width = 4;
+        public double length = 20;
+        public double width = 15;
         public double area()
         {
             return length * width;

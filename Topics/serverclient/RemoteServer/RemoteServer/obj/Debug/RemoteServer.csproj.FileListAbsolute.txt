@@ -1,0 +1,7 @@
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteServer\RemoteServer\obj\Debug\RemoteServer.csproj.CoreCompileInputs.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe.config
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteServer\RemoteServer\bin\Debug\RemoteServer.exe
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteServer\RemoteServer\bin\Debug\RemoteServer.pdb
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteServer\RemoteServer\obj\Debug\RemoteServer.exe
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteServer\RemoteServer\obj\Debug\RemoteServer.pdb

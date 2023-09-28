@@ -8,7 +8,7 @@ namespace FactoryPattern
 {
     class Square : Ishape
     {
-        public double side = 5;
+        public double side = 9;
 
         public double area()
         {

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace InterfaceApp
 {
-    class Class1
+    public class Whale : Ianimal
     {
+        return  "Breath well NIgga!";
     }
 }

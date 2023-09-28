@@ -1,4 +1,0 @@
-﻿Build started...
-1>------ Build started: Project: TCPClient, Configuration: Debug Any CPU ------
-1>D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TCPClient\TCPClient\Program.cs(10,7,10,16): error CS0246: The type or namespace name 'TCPServer' could not be found (are you missing a using directive or an assembly reference?)
-========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

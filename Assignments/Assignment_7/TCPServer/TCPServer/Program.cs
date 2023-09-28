@@ -1,25 +1,25 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Runtime.Remoting;
 using System.Runtime.Remoting.Channels;
 using System.Runtime.Remoting.Channels.Tcp;
-using System.Runtime.Remoting.Channels.Http;
 using System.Runtime.Remoting.Lifetime;
 
-namespace TCPServer
+namespace RemotingServer
 {
-
     public class Service : MarshalByRefObject
     {
-        public string SayHello(string s)
+        public string Message(string s)
         {
-            return "Hi" + s;
+            return "Hey Brother! How you doing?" + s;
         }
 
-        public int HighestNumber(int n1, int n2)
+
+        public int HighNumber(int a, int b)
         {
-            int maxnumber = (Math.Max(n1, n2));
-            Console.WriteLine("Remote Call Executed..");
+            int maxnumber = (Math.Max(a, b));
+            Console.WriteLine("Call Executed..");
             return maxnumber;
         }
         public override object InitializeLifetimeService()
@@ -33,6 +33,8 @@ namespace TCPServer
             }
             return lease;
         }
+
+    }
     class Server
     {
         static void Main(string[] args)

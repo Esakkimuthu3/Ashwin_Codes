@@ -1,28 +1,22 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
-using System.Runtime.Remoting;
-using System.Runtime.Remoting.Channels;
-using System.Runtime.Remoting.Channels.Tcp;
-using System.Runtime.Remoting.Channels.Http;
-using TCPServer;
+using System.Windows.Forms;
 
-namespace TCPClient
+namespace TcpClient
 {
-    class Program
+    static class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
         {
-            
-             TcpChannel tcpChannel = new TcpChannel(8002);
-            ChannelServices.RegisterChannel(tcpChannel);
-           Service work = (Service)Activator.GetObject(typeof(Service),
-                "http://localhost:8089/OurFirstRemoteService");
-            Console.WriteLine(work.SayHello("  Remote"));
-            Console.WriteLine(work.HighestNumber(20, 25));
-            Console.Read();
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Form1());
         }
     }
 }

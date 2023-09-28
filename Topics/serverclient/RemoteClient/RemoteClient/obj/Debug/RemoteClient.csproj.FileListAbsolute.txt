@@ -1,0 +1,11 @@
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe.config
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteClient\RemoteClient\bin\Debug\RemoteClient.exe
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteClient\RemoteClient\bin\Debug\RemoteClient.pdb
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteClient\RemoteClient\bin\Debug\RemoteServer.exe
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteClient\RemoteClient\bin\Debug\RemoteServer.pdb
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteClient\RemoteClient\bin\Debug\RemoteServer.exe.config
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteClient\RemoteClient\obj\Debug\RemoteClient.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteClient\RemoteClient\obj\Debug\RemoteClient.csproj.CoreCompileInputs.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteClient\RemoteClient\obj\Debug\RemoteClient.csproj.CopyComplete
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteClient\RemoteClient\obj\Debug\RemoteClient.exe
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\RemoteClient\RemoteClient\obj\Debug\RemoteClient.pdb

@@ -1,2 +1,14 @@
-D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.AssemblyReference.cache
-D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TCPClient\TCPClient\obj\Debug\TCPClient.csproj.CoreCompileInputs.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\bin\Debug\TcpClient.exe.config
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\bin\Debug\TcpClient.exe
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\bin\Debug\TcpClient.pdb
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\bin\Debug\TcpServer.exe
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\bin\Debug\TcpServer.pdb
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\bin\Debug\TcpServer.exe.config
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\obj\Debug\TcpClient.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\obj\Debug\TcpClient.Form1.resources
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\obj\Debug\TcpClient.Properties.Resources.resources
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\obj\Debug\TcpClient.csproj.GenerateResource.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\obj\Debug\TcpClient.csproj.CopyComplete
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\obj\Debug\TcpClient.exe
+D:\ics programs\ASHWIN_Codes\Assignments\Assignment_7\TcpClient\TcpClient\obj\Debug\TcpClient.pdb
