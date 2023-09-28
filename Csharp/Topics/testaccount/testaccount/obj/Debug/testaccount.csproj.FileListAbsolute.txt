@@ -1,0 +1,6 @@
+D:\ics programs\ASHWIN_Codes\Topics\testaccount\testaccount\bin\Debug\testaccount.dll
+D:\ics programs\ASHWIN_Codes\Topics\testaccount\testaccount\bin\Debug\testaccount.pdb
+D:\ics programs\ASHWIN_Codes\Topics\testaccount\testaccount\obj\Debug\testaccount.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\Topics\testaccount\testaccount\obj\Debug\testaccount.csproj.CoreCompileInputs.cache
+D:\ics programs\ASHWIN_Codes\Topics\testaccount\testaccount\obj\Debug\testaccount.dll
+D:\ics programs\ASHWIN_Codes\Topics\testaccount\testaccount\obj\Debug\testaccount.pdb
