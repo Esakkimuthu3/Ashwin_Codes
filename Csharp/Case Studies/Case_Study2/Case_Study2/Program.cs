@@ -93,7 +93,7 @@ namespace Case_Study2
 
             while (true)
             {
-                Console.WriteLine("Options :");
+                Console.WriteLine("Options:");
                 Console.WriteLine("1. Introduce a new course");
                 Console.WriteLine("2. Student Registration");
                 Console.WriteLine("3. Enrollment of Student in Course");

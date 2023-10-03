@@ -39,8 +39,8 @@ namespace Case_Study1
                 Console.WriteLine("Choose any one:");
                 Console.WriteLine("1. Scenario 1");
                 Console.WriteLine("2. Scenario 2");
-                Console.WriteLine("3. Exit");
-                Console.Write("Enter your choice (1-3): ");
+                Console.WriteLine("3. Logout");
+                Console.Write("Enter your choice: ");
 
                 if (int.TryParse(Console.ReadLine(), out int choice))
                 {
@@ -53,17 +53,17 @@ namespace Case_Study1
                             Scenario2();
                             break;
                         case 3:
-                            Console.WriteLine("Exiting the program. Goodbye!");
+                            Console.WriteLine("Logging Out");
                             Environment.Exit(0);
                             break;
                         default:
-                            Console.WriteLine("Invalid choice. Please select a valid scenario (1-3).");
+                            Console.WriteLine("Invalid choice.");
                             break;
                     }
                 }
                 else
                 {
-                    Console.WriteLine("Invalid input. Please enter a numeric choice.");
+                    Console.WriteLine("Invalid input.");
                 }
             }
             Console.ReadLine();
@@ -73,25 +73,24 @@ namespace Case_Study1
         {
             Console.WriteLine("Scenario 1:");
 
-            Console.Write("Enter the number of students: ");
-            int numStudents = int.Parse(Console.ReadLine());
+            Console.Write("Enter the total number of students to be accepted and give the deatails: ");
+            int total = int.Parse(Console.ReadLine());
 
-            Student[] students = new Student[numStudents];
+            Student[] students = new Student[total];
             Info info = new Info();
 
-            for (int i = 0; i < numStudents; i++)
+            for (int i = 0; i < total; i++)
             {
                 Console.Write("Enter Student ID: ");
                 int id = int.Parse(Console.ReadLine());
                 Console.Write("Enter Student Name: ");
                 string name = Console.ReadLine();
-                Console.Write("Enter Student DOB (yyyy-MM-dd): ");
+                Console.Write("Enter Student DOB in the format (yyyy-MM-dd): ");
                 DateTime dob = DateTime.Parse(Console.ReadLine());
-
                 students[i] = new Student(id, name, dob);
             }
 
-            Console.WriteLine("\nStudent Details:");
+            Console.WriteLine("Student Details:");
             foreach (Student student in students)
             {
                 info.Display(student);
@@ -101,13 +100,13 @@ namespace Case_Study1
         public static void Scenario2()
         {
             Console.WriteLine("\nScenario 2:");
-            Console.Write("Enter the number of students: ");
-            int numStudents = int.Parse(Console.ReadLine());
+            Console.Write("Enter the total number of students for giving details: ");
+            int total = int.Parse(Console.ReadLine());
 
-            Student[] students = new Student[numStudents];
+            Student[] students = new Student[total];
             Info info = new Info();
 
-            for (int i = 0; i < numStudents; i++)
+            for (int i = 0; i < total; i++)
             {
                 Console.Write("Enter Student ID: ");
                 int id = int.Parse(Console.ReadLine());
@@ -119,7 +118,7 @@ namespace Case_Study1
                 students[i] = new Student(id, name, dob);
             }
 
-            Console.WriteLine("\nStudent Details:");
+            Console.WriteLine("Student Details:");
             foreach (Student student in students)
             {
                 info.Display(student);
