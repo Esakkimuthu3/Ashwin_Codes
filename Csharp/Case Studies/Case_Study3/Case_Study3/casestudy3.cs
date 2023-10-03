@@ -39,11 +39,11 @@ namespace Case_Study_3
                     ShowAdminScreen();
                     break;
                 case 3:
-                    Console.WriteLine("Exiting the program. Goodbye!");
+                    Console.WriteLine("Logging out.....");
                     Environment.Exit(0);
                     break;
                 default:
-                    Console.WriteLine("Invalid choice. Please enter 1 or 2.");
+                    Console.WriteLine("Invalid choice.");
                     ShowFirstScreen();
                     break;
             }
@@ -54,7 +54,7 @@ namespace Case_Study_3
             Console.WriteLine("Student Menu:");
             Console.WriteLine("1. View All Courses");
             Console.WriteLine("2. Register for a Course");
-            Console.WriteLine("3. Exit");
+            Console.WriteLine("3. Log Out");
             Console.Write("Enter your choice: ");
             int choice = Convert.ToInt32(Console.ReadLine());
 
@@ -67,11 +67,11 @@ namespace Case_Study_3
                     ShowStudentRegistrationScreen();
                     break;
                 case 3:
-                    Console.WriteLine("Exiting Student Menu.");
+                    Console.WriteLine("Logging out Student Menu.");
                     ShowFirstScreen();
                     break;
                 default:
-                    Console.WriteLine("Invalid choice. Please enter a valid option (1-3).");
+                    Console.WriteLine("Invalid choice.");
                     ShowStudentScreen();
                     break;
             }
@@ -83,7 +83,7 @@ namespace Case_Study_3
             Console.WriteLine("1. Introduce New Course");
             Console.WriteLine("2. View All Students");
             Console.WriteLine("3. Exit");
-            Console.Write("Enter your choice (1-3): ");
+            Console.Write("Enter your choice: ");
             int choice = Convert.ToInt32(Console.ReadLine());
 
             switch (choice)
@@ -129,7 +129,7 @@ namespace Case_Study_3
             
             appEngine.Register(new Student(studentId, studentName, studentDob));
             Console.WriteLine("Student registered successfully.");
-            Console.WriteLine("Press Enter to return to the previous menu...");
+            
             Console.ReadLine();
             ShowStudentScreen();
         }
@@ -141,7 +141,7 @@ namespace Case_Study_3
             Console.Write("Enter Course Name: ");
             string courseName = Console.ReadLine();
 
-            // Introduce a new course
+            
             appEngine.Introduce(new Course(courseId, courseName));
             Console.WriteLine("Course introduced successfully.");
             Console.WriteLine("Press Enter to return to the previous menu...");
