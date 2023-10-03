@@ -1,0 +1,2 @@
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_Study3\Case_Study3\obj\Debug\Case_Study3.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_Study3\Case_Study3\obj\Debug\Case_Study3.csproj.CoreCompileInputs.cache

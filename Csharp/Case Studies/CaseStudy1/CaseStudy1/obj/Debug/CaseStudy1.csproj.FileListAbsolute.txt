@@ -1,7 +1,0 @@
-D:\ics programs\ASHWIN_Codes\Assignments\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.exe.config
-D:\ics programs\ASHWIN_Codes\Assignments\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.exe
-D:\ics programs\ASHWIN_Codes\Assignments\CaseStudy1\CaseStudy1\bin\Debug\CaseStudy1.pdb
-D:\ics programs\ASHWIN_Codes\Assignments\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.csproj.AssemblyReference.cache
-D:\ics programs\ASHWIN_Codes\Assignments\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.csproj.CoreCompileInputs.cache
-D:\ics programs\ASHWIN_Codes\Assignments\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.exe
-D:\ics programs\ASHWIN_Codes\Assignments\CaseStudy1\CaseStudy1\obj\Debug\CaseStudy1.pdb

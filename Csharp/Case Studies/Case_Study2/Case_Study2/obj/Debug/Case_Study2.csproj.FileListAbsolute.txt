@@ -1,0 +1,11 @@
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_Study2\Case_Study2\obj\Debug\Case_Study2.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_Study2\Case_Study2\obj\Debug\Case_Study2.csproj.CoreCompileInputs.cache
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_Study2\Case_Study2\bin\Debug\Case_Study2.exe.config
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_Study2\Case_Study2\bin\Debug\Case_Study2.exe
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_Study2\Case_Study2\bin\Debug\Case_Study2.pdb
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_Study2\Case_Study2\bin\Debug\Case_Study1.exe
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_Study2\Case_Study2\bin\Debug\Case_Study1.pdb
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_Study2\Case_Study2\bin\Debug\Case_Study1.exe.config
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_Study2\Case_Study2\obj\Debug\Case_Study2.csproj.CopyComplete
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_Study2\Case_Study2\obj\Debug\Case_Study2.exe
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_Study2\Case_Study2\obj\Debug\Case_Study2.pdb
