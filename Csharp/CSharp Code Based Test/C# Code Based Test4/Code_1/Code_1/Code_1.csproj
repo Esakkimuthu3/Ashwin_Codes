@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{66B91A56-A3CA-4EA6-AF0E-B1D161132F2A}</ProjectGuid>
+    <ProjectGuid>{A7A89539-1D9F-46E4-AE63-283BB0F78642}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Case_Study3</RootNamespace>
-    <AssemblyName>Case_Study3</AssemblyName>
+    <RootNamespace>Code_1</RootNamespace>
+    <AssemblyName>Code_1</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,16 +32,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>Case_Study_3.App</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Case_Study1">
-      <HintPath>..\..\Case_Study1\Case_Study1\bin\Debug\Case_Study1.exe</HintPath>
-    </Reference>
-    <Reference Include="Case_Study2">
-      <HintPath>..\..\Case_Study2\Case_Study2\bin\Debug\Case_Study2.exe</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -52,8 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CaseStudy1.cs" />
-    <Compile Include="casestudy3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

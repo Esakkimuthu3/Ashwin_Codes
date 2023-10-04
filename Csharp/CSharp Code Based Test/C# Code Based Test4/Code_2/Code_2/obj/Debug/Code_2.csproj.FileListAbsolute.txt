@@ -1,0 +1,7 @@
+D:\ics programs\ASHWIN_Codes\Csharp\CSharp Code Based Test\C# Code Based Test4\Code_2\Code_2\bin\Debug\Code_2.exe.config
+D:\ics programs\ASHWIN_Codes\Csharp\CSharp Code Based Test\C# Code Based Test4\Code_2\Code_2\bin\Debug\Code_2.exe
+D:\ics programs\ASHWIN_Codes\Csharp\CSharp Code Based Test\C# Code Based Test4\Code_2\Code_2\bin\Debug\Code_2.pdb
+D:\ics programs\ASHWIN_Codes\Csharp\CSharp Code Based Test\C# Code Based Test4\Code_2\Code_2\obj\Debug\Code_2.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\Csharp\CSharp Code Based Test\C# Code Based Test4\Code_2\Code_2\obj\Debug\Code_2.csproj.CoreCompileInputs.cache
+D:\ics programs\ASHWIN_Codes\Csharp\CSharp Code Based Test\C# Code Based Test4\Code_2\Code_2\obj\Debug\Code_2.exe
+D:\ics programs\ASHWIN_Codes\Csharp\CSharp Code Based Test\C# Code Based Test4\Code_2\Code_2\obj\Debug\Code_2.pdb
