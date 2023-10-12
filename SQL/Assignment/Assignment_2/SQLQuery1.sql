@@ -127,3 +127,22 @@ select ename as EmployeeName , salary from Employee where salary not between 150
 select mgr_id ,COUNT(empno) as CountOfEmployee from Employee 
 group by mgr_id 
 having COUNT(empno) > 2;
+
+
+
+
+
+
+ 
+
+create trigger trgAuditInsert
+on Employee
+for insert
+as
+begin
+declare @id int
+select @id= empno from inserted
+--insert the newly added employee into audit table
+insert into tblAudit values('New Employee with EmpId :' + cast(@id as varchar(5)) +
+'  is added on :' + cast(getdate() as varchar(20)))
+end
