@@ -85,7 +85,7 @@ VALUES (102,'2009-10-08 00:00:00', 3,3000),
 
 --Write a query to display the   Date,Total no of customer  placed order on same Date
 
-SELECT o.Date, count(c.id) AS NumofOrders FROM orders o, customers c where o.cust_id = c.id GROUP BY o.Date HAVING count(c.id)>1;
+SELECT o.Date, count(c.id) AS NumofOrders FROM orders o, customers c where o.cust_id = c.id GROUP BY o.Date ;
 --
 
 --Creation of table Employee
@@ -138,7 +138,7 @@ VALUES (2, 'Sai', 22, 'BE', '9952836777', 'Sai@gmai.com', 'Chennai','M'),
 
 --Write a sql server query to display the Gender,Total no of male and female from the above relation.
 
-SELECT ISNULL(Gender,'Not Assigned') AS Gender, COUNT(RegisterNo) AS 'Total Employee' FROM students
+SELECT ISNULL(Gender,'Not Assigned') AS Gender, COUNT(*) AS 'Total Employee' FROM students
 GROUP BY Gender;
                    
 
