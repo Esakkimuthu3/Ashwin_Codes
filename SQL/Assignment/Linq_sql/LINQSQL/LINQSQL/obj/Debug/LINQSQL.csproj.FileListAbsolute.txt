@@ -1,0 +1,7 @@
+D:\ics programs\ASHWIN_Codes\SQL\Assignment\Linq_sql\LINQSQL\LINQSQL\bin\Debug\LINQSQL.exe.config
+D:\ics programs\ASHWIN_Codes\SQL\Assignment\Linq_sql\LINQSQL\LINQSQL\bin\Debug\LINQSQL.exe
+D:\ics programs\ASHWIN_Codes\SQL\Assignment\Linq_sql\LINQSQL\LINQSQL\bin\Debug\LINQSQL.pdb
+D:\ics programs\ASHWIN_Codes\SQL\Assignment\Linq_sql\LINQSQL\LINQSQL\obj\Debug\LINQSQL.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\SQL\Assignment\Linq_sql\LINQSQL\LINQSQL\obj\Debug\LINQSQL.csproj.CoreCompileInputs.cache
+D:\ics programs\ASHWIN_Codes\SQL\Assignment\Linq_sql\LINQSQL\LINQSQL\obj\Debug\LINQSQL.exe
+D:\ics programs\ASHWIN_Codes\SQL\Assignment\Linq_sql\LINQSQL\LINQSQL\obj\Debug\LINQSQL.pdb
