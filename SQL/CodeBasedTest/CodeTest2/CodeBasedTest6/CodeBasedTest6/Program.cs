@@ -21,13 +21,23 @@ namespace CodeBasedTest6
 
 
 
-                    using (SqlCommand command = new SqlCommand("AddEmployees", connection))
+                    using (SqlCommand command = new SqlCommand("AddEmployeese", connection))
                     {
-                        command.CommandType = CommandType.StoredProcedure;
-                    command.Parameters.AddWithValue("@empno", 7775);
-                        command.Parameters.AddWithValue("@empname", "Ashwi");
-                        command.Parameters.AddWithValue("@empsal", 8000.00);
-                        command.Parameters.AddWithValue("@emptype", "F");
+                    Console.WriteLine("Enter the emp name");
+                    string empname = Console.ReadLine();
+                    Console.WriteLine("Enter the emp salary");
+                    string empsal = Console.ReadLine();
+                    Console.WriteLine("Enter the emp type (either F or P)");
+                    string emptype = Console.ReadLine();
+
+
+
+                    command.CommandType = CommandType.StoredProcedure;
+
+                    
+                        command.Parameters.AddWithValue("@empname", empname);
+                        command.Parameters.AddWithValue("@empsal", empsal);
+                        command.Parameters.AddWithValue("@emptype", emptype);
 
 
 
