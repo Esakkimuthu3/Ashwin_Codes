@@ -1,0 +1,7 @@
+D:\ics programs\ASHWIN_Codes\SQL\CodeBasedTest\CodeTest2\CodeBasedTest6\CodeBasedTest6\bin\Debug\CodeBasedTest6.exe.config
+D:\ics programs\ASHWIN_Codes\SQL\CodeBasedTest\CodeTest2\CodeBasedTest6\CodeBasedTest6\bin\Debug\CodeBasedTest6.exe
+D:\ics programs\ASHWIN_Codes\SQL\CodeBasedTest\CodeTest2\CodeBasedTest6\CodeBasedTest6\bin\Debug\CodeBasedTest6.pdb
+D:\ics programs\ASHWIN_Codes\SQL\CodeBasedTest\CodeTest2\CodeBasedTest6\CodeBasedTest6\obj\Debug\CodeBasedTest6.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\SQL\CodeBasedTest\CodeTest2\CodeBasedTest6\CodeBasedTest6\obj\Debug\CodeBasedTest6.csproj.CoreCompileInputs.cache
+D:\ics programs\ASHWIN_Codes\SQL\CodeBasedTest\CodeTest2\CodeBasedTest6\CodeBasedTest6\obj\Debug\CodeBasedTest6.exe
+D:\ics programs\ASHWIN_Codes\SQL\CodeBasedTest\CodeTest2\CodeBasedTest6\CodeBasedTest6\obj\Debug\CodeBasedTest6.pdb
