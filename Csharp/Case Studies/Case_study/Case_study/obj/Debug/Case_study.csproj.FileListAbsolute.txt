@@ -1,0 +1,7 @@
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_study\Case_study\bin\Debug\Case_study.exe.config
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_study\Case_study\bin\Debug\Case_study.exe
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_study\Case_study\bin\Debug\Case_study.pdb
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_study\Case_study\obj\Debug\Case_study.csproj.AssemblyReference.cache
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_study\Case_study\obj\Debug\Case_study.csproj.CoreCompileInputs.cache
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_study\Case_study\obj\Debug\Case_study.exe
+D:\ics programs\ASHWIN_Codes\Csharp\Case Studies\Case_study\Case_study\obj\Debug\Case_study.pdb
