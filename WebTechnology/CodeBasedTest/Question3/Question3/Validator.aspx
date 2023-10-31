@@ -34,6 +34,8 @@
             <label for="txtEmail">E-mail:</label>
             <asp:TextBox ID="txtEmail" runat="server" placeholder="Email" ></asp:TextBox><br /> 
             <br />
+            <asp:Label ID="resultLabel" runat="server" EnableViewState="false"></asp:Label>
+
             <asp:Button ID="Button1" runat="server" Text="Check" OnClick="Button1_Click" />
         </div>
     </form>
