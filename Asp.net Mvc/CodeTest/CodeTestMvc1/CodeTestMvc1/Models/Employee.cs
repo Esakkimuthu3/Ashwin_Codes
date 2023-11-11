@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CodeTestMvc1
+namespace CodeTestMvc1.Models
 {
     using System;
     using System.Collections.Generic;

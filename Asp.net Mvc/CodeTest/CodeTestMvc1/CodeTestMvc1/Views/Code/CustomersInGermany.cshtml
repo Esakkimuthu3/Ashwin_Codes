@@ -1,17 +1,17 @@
-﻿
+﻿@model List<CodeTestMvc1.Models.Customer>
 @{
     ViewBag.Title = "CustomersInGermany";
 }
 
 <h2>CustomersInGermany</h2>
-
-<table>
+<table class="table">
     <tr>
         <th>Customer ID</th>
         <th>Company Name</th>
         <th>Contact Name</th>
         <th>Country</th>
     </tr>
+
     @foreach (var customer in Model)
     {
         <tr>
@@ -20,6 +20,5 @@
             <td>@customer.ContactName</td>
             <td>@customer.Country</td>
         </tr>
-    }
+}
 </table>
-
