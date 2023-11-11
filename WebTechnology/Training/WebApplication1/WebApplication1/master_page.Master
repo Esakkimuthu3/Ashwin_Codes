@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master_page.master.cs" Inherits="WebApplication1.master_page" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="wrapper">
+            <div class ="Header">
+                <h1>This is the Header of my webpage.</h1>
+            </div>
+            <div class ="Content">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            </div>
+            <div class="Footer">
+               <h3> All Are fake in this website &copy; 2023</h3>
+            </div>
+        </div>
+    </form>
+</body>
+</html>
